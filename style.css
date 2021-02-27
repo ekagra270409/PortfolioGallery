@@ -1,0 +1,65 @@
+body {
+    background: linear-gradient(orange 0%, white 50%, green 100%);
+    text-align: center;
+}
+
+.webgif {
+    height: 300px;
+    width: 400px;
+    padding-top: 35px;
+}
+
+.view_and_more {
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    width: 100%;
+}
+
+.sections {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+
+.sections:hover {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.monuments {
+    height: 300px;
+    width: 300px;
+    border-radius: 4%;
+}
+
+#MonumentCarousel {
+    background: linear-gradient(orange 0%, white 50%, green 100%);
+}
+
+#MonumentCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#contacts iframe {
+    width: 100%;
+}
+
+.socialmedia h3 {
+    display: inline;
+}
+
+.socialmedia a {
+    color: white;
+    text-shadow: none;
+}
